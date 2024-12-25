@@ -1,6 +1,6 @@
 {
   "name": "socket",
-  "version": "1",
+  "version": 1,
   "description": "",
   "main": "index.js",
   "engines":{
