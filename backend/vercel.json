@@ -1,5 +1,6 @@
 {
   "version":2,
+  "name": "e-shop-tutorial",
   "builds":[{"src": "./app.js", "use": "@vercel/node"}],
   "routes":[{"src": "/(.*)", "dest": "/" }]
 }
