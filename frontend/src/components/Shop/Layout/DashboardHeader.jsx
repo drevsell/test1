@@ -13,7 +13,7 @@ const DashboardHeader = () => {
       <div>
         <Link to="/dashboard">
           DREVSELL
-          <img src="https://shopo.quomodothemes.website/assets/images/logo.svg" alt="" />
+          <!-- <img src="https://shopo.quomodothemes.website/assets/images/logo.svg" alt="" /> -->
         </Link>
       </div>
       <div className="flex items-center">
